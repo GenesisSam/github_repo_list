@@ -19,7 +19,7 @@
 
                 <data
                     android:scheme="testapp"
-                    android:host="repo"
+                    android:host="repos"
                     />
             </intent-filter>
         </activity>
